@@ -1,0 +1,41 @@
+.no-scroll {
+    margin: 0;
+    height: 100%; 
+    overflow: hidden}
+
+.homepage-msg {
+    font-size: 30px;
+    position: relative;
+    left: -400px;
+    top: 100px;
+}   
+
+.skip-text {
+    font-size: 15px;
+    position: relative;
+    left: -400px;
+    top: 100px;
+    text-decoration: underline;
+}
+
+.bgImage {
+    position: fixed; 
+    top: -50%; 
+    left: -50%; 
+    width: 200%; 
+    height: 200%;
+    
+    
+  }
+
+  .bgImage img {
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    right: 0; 
+    bottom: 0; 
+    margin: auto; 
+    min-width: 50%;
+    min-height: 50%;
+  }
+
